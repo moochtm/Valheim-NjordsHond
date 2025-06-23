@@ -10,3 +10,4 @@ obj/
 *.log
 *.tmp
 .gitignore
+.DS_Store

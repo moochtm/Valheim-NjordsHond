@@ -1,3 +1,4 @@
+![Njord's Hand Icon](icon.png)
 # Njord's Hond
 
 **Njord's Hond** is a Valheim mod that enhances sea navigation by introducing intelligent ship autopilot capabilities. Built on top of the ShipNavigator mod, it allows players to set waypoint-based courses, switch between sailing and paddling automatically based on wind conditions, and control their vessel using simple chat commands. Njord, the Norse god of the sea and wind, lends his steady hand to steer your course—even when you're distracted by battle or beer.
