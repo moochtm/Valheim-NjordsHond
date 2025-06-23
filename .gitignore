@@ -1,0 +1,12 @@
+bin/
+build/
+obj/
+.vs/
+*.user
+*.csproj.user
+*.suo
+*.pdb
+*.dll
+*.log
+*.tmp
+.gitignore
